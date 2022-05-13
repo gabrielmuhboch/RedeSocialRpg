@@ -1,0 +1,32 @@
+
+.fundoCadastro{
+    background-image: url(../../assets/FundoDeserto.png);
+    overflow: hidden;
+    width: 100vw;
+    height: 60vw;
+    Background-repeat: no-repeat;
+    Background-position:center;
+    Background-size:cover;
+}
+
+
+.trecosCadastro{
+    
+    color: rgb(65, 35, 2);
+    font-size: 28px;
+    margin-top: 15%;
+    text-align: center;
+    
+}
+.btn-cadastrar{
+    
+    width: 150px;
+    height: 36px;
+    background-color: #e67a21;
+    color: #FFF;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+
+}

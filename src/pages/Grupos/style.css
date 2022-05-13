@@ -1,0 +1,33 @@
+
+.fundoGrupos{
+    background-image: url(../../assets/FundoNeve.png);
+    overflow: hidden;
+    width: 100vw;
+    height: 60vw;
+    Background-repeat: no-repeat;
+    Background-position:center;
+    Background-size:cover;
+    
+    
+}
+
+.trecosFundo{
+    
+    color: white;
+    font-size: 28px;
+    margin-top: 15%;
+    text-align: center;
+    
+}
+
+.btn-grupos-voltar{
+    width: 170px;
+    height: 55px;
+    background-color: #770707;
+    color: #FFF;
+    font-size: 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10vw;
+    margin-right: 10px;
+}

@@ -1,0 +1,40 @@
+
+.fundoPerfil{
+    background-image: url(../../assets/FundoNeve.png);
+    overflow: hidden;
+    width: 100vw;
+    height: 50vw;
+    Background-repeat: no-repeat;
+    Background-position:center;
+    Background-size:cover;
+    
+    
+}
+
+.trecosPerfil{
+    
+    font-size: 28px;
+    margin-top: 15%;
+    text-align: center;
+    
+}
+
+.table-voltar{
+    margin-top: 60%;
+    font-size: 28px;
+    text-align: center;
+}
+
+.btn-postar-voltar{
+    width: 100px;
+    height: 35px;
+    background-color: #094609;
+    color: #FFF;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 16px;
+    margin-right: 10px;
+}
+
+
